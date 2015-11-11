@@ -1,0 +1,7 @@
+name: nginx
+summary: words
+description: more words whatever
+requires:
+    reverseproxy:
+        interface: http
+
